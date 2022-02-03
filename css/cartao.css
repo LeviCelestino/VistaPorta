@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.IMG{
+    width: 400px;
+    height: 200px;
+    background-image: url(../img/backgorund.png);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.NAME{
+    padding-left: 13px;
+    padding-top: 0.1px;
+    font-family: Courier New;
+}
+.back{
+    list-style-image: url(../img/Insta.png);
+    font-family: Courier New;   
+    font-size: 100%
+}
+.back2{;
+    list-style-image: url(../img/Twitter.png);
+    font-family: Courier New;
+    font-size: 100%
+    
+}
+.back3{
+    list-style-image: url(../img/Youtube.png);
+    font-family: Courier New;
+    font-size: 100%
+}
+a{
+    text-decoration: none;
+    color: black;
+}
